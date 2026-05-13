@@ -1,4 +1,4 @@
-
+Mullvad ultra-secure App: kill-switch & obfuscation is the best Mullvad app, featuring kill-switch and obfuscation. Secure, fast, and optimized for privacy.
 
 
 
